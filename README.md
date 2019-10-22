@@ -1,7 +1,5 @@
 # Generate-Report-Cards
 Java program to read in files and output student report cards
-10/22/2019
-Kara Norton
 
 # USER INSTRUCTIONS:
 - Enter the command 'javac ReportCard.java' to compile the program
