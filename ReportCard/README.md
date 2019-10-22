@@ -3,7 +3,6 @@ Report Card
 Kara Norton
 
 USER INSTRUCTIONS:
-- From your terminal, cd into the HatchwaysAssessment directory
 - Enter the command 'javac ReportCard.java' to compile the program
 - Enter the command 'java ReportCard' to run the program
 
